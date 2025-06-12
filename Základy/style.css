@@ -1,0 +1,12 @@
+body {
+  color: green;
+  background-color: beige;
+}
+h1 {
+  font-style: italic;
+  font-size: x-large;
+  text-decoration: line-through;
+}
+p {
+  font-family: Arial, Helvetica, sans-serif;
+}
