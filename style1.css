@@ -1,0 +1,23 @@
+body {
+  background-color: #f4f4f4;
+  color: #1a1a1a;
+  font-family: "Roboto", Arial, Helvetica, sans-serif;
+  text-shadow: #4a4a4a;
+}
+
+h1 {
+  color: #000;
+  font-size: 2.25rem;
+}
+
+p {
+  color: #4a4a4a;
+  font-size: 1rem;
+  line-height: 1.25;
+  letter-spacing: normal;
+}
+
+a {
+  text-decoration: none;
+  color: blue;
+}
